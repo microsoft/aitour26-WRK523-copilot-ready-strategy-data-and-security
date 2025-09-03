@@ -62,22 +62,27 @@ If you will be delivering this session, check the [session-delivery-sources](./s
 
 ### Session Description
 
-*Add Session Description*
+This session will equip participants with the knowledge and tools to prepare their organization for Microsoft Copilot by addressing data readiness, security, and governance. Attendees will gain hands-on experience with Microsoft tools and resources to assess risks, secure grounding data, and drive successful adoption at scale.
 
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+- Clarity on What “Copilot Ready” Means​
+
+- Actionable Security Practices​
+
+- Tool Familiarity​
+
+- Adoption Strategy Blueprint​
+
+- Governance Confidence
+
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
+1. Purview
 
 ### 🔗 Session Resources
 | Resources          | Links                             | Description        |
