@@ -110,12 +110,12 @@ By the end of this session, learners will be able to:
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+    <td align="center"><a href="http://github.com/brwoff">
+        <img src="https://github.com/brwoff.png" width="100px;" alt="Bryan Wofford"
 "/><br />
-        <sub><b> INSERT NAME HERE
+        <sub><b> Bryan Wofford
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/brwoff" title="talk">📢</a> 
     </td>
     <td align="center"><a href="http://github.com/mikekinsman">
         <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
