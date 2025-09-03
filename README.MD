@@ -88,7 +88,10 @@ By the end of this session, learners will be able to:
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Additional Resources for this session | [https://learn.microsoft.com](https://learn.microsoft.com?ocid=AITour26_resourcecenter_cnl) | Links specific to this session |
-| Address Internal Oversharing | (https://aka.ms/Copilot/Oversharing) | Link to Deployment Blueprint |
+| Address Internal Oversharing | https://aka.ms/Copilot/Oversharing | Link to Deployment Blueprint |
+| Adoption.Microsoft.com | https://adoption.microsoft.com/copilot | Enablement and usage guidance for Microsoft 365 Copilot and Copilot Chat | 
+| AI Agent Hub | https://aka.ms/AIAgentsHub | Cross-organizational hub for AI agents | 
+| Security for AI Assessment | https://aka.ms/S4Aiassessment| Security Assessment | 
 
 ### 📚 Continued Learning Resources
 | Resources          | Links                             | Description        |
