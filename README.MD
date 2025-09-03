@@ -88,7 +88,7 @@ By the end of this session, learners will be able to:
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Additional Resources for this session | [https://learn.microsoft.com](https://learn.microsoft.com?ocid=AITour26_resourcecenter_cnl) | Links specific to this session |
-| Address Internal Oversharing | [https://aka.ms/Copilot/Oversharing] | Link to Deployment Blueprint |
+| Address Internal Oversharing | (https://aka.ms/Copilot/Oversharing) | Link to Deployment Blueprint |
 
 ### 📚 Continued Learning Resources
 | Resources          | Links                             | Description        |
