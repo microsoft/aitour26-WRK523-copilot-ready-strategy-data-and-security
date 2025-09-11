@@ -7,8 +7,6 @@
 
 ## 🔥BRK523 Copilot Ready: Strategy, Data, and Security
 
-If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
-
 ### Session Description
 
 This session will equip participants with the knowledge and tools to prepare their organization for Microsoft Copilot by addressing data readiness, security, and governance. Attendees will gain hands-on experience with Microsoft tools and resources to assess risks, secure grounding data, and drive successful adoption at scale.
