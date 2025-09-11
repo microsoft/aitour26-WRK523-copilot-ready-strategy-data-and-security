@@ -13,10 +13,8 @@ Prior to delivering the workshop please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Workshop Slide Deck      |  [Presentation](https://aka.ms/)  | Presentation slides for this workshop with presenter notes and embedded demo video |
-| Session Delivery Deck     |  [Deck](https://aka.ms/) | The session delivery slides |
-| More Files     |  [Some More Files](https://aka.ms/) | More File Descriptions |
-
+| Session Recording      |  [Recording](https://youtu.be/OIlQNC9a2i4)  | Full Session Recording |
+| Session Delivery Deck     |  [Deck](https://aka.ms/AAxu8tg) | The session delivery slides |
 
 ## 🚀Get Started
 
