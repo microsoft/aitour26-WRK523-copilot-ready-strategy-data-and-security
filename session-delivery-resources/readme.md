@@ -15,6 +15,7 @@ Prior to delivering the workshop please:
 |-------------------|----------------------------------|-------------------|
 | Session Recording      |  [Recording](https://youtu.be/OIlQNC9a2i4)  | Full Session Recording |
 | Session Delivery Deck     |  [Deck](https://aka.ms/AAxu8tg) | The session delivery slides |
+| Lab Instructions     |   [Instructions](/WRK523Instructions.md) |   Instructions |
 
 ## 🚀Get Started
 
